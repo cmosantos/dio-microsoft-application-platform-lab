@@ -35,13 +35,13 @@ Durante este projeto, busquei:
 > Adicione aqui os prints do seu projeto para mostrar o resultado final e/ou etapas importantes.
 
 ### Print 1 - Visão geral do projeto
-![Print 1](./images/print1.png)
+![Print 1](./print1.png)
 
 ### Print 2 - Etapa de configuração / execução
-![Print 2](./images/print2.png)
+![Print 2](./print2.png)
 
 ### Print 3 - Resultado final / tela principal
-![Print 3](./images/print3.png)
+![Print 3](./print3.png)
 
 ## Processo de desenvolvimento
 
